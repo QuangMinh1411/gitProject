@@ -1,2 +1,5 @@
-const a = 10;
+const b = 'Hi there'
 const myFunc = ()=>console.log('Hello')
+
+
+
